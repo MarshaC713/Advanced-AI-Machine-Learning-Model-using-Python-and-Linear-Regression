@@ -12,4 +12,4 @@ c = Intercept of the line (gives an additional degree of freedom)
 
 🍃A positive correlation between the two is best visualised using a scatterplot graph. If a possitive correlation exists, the majority of data points will form a linear pattern trending upwards from left to right, as demarked by the red line below. As you can see a positive correlation was found in this dataset.
 
-🍃I completed the code in Python, on IDE Google colabs (a hosted Jupyter notebook Service) and used Python libraries Numpy, Pandas and matplotlib. Matplotlib is a comprehensive Python library for creating beautiful visualisations in Python such as the scatterplot below. Numpy and Pandas are used to shape arrays (data structures that form containers, storing the numbers below 
+🍃I completed the code in Python, on IDE Google colabs (a hosted Jupyter notebook Service) and used Python libraries Numpy, Pandas and matplotlib. Matplotlib is a comprehensive Python library for creating beautiful visualisations in Python such as the scatterplot below. Numpy and Pandas are used to shape arrays (data structures that form containers, storing numbers) into matrixes.
