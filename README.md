@@ -1,6 +1,6 @@
 # Advanced-AI-Machine-Learning-Model-using-Python-and-Linear-Regression
-Advanced AI &amp; Machine Learning Model using Python and Linear Regression.
-🍃I created an Advanced AI and Machine Learning Model using linear regression and python. Linear regression is a statistical method used in Machine Learning for predictive analysis, it is used to predict the value of a variable based on the value of another variable. In the model below, I have analysed some data and I have trained an AI and Machine Learning model using test data to predict whether y is dependent on x.
+🍃Advanced AI &amp; Machine Learning Model using Python and Linear Regression.
+I created an Advanced AI and Machine Learning Model using linear regression and python. Linear regression is a statistical method used in Machine Learning for predictive analysis, it is used to predict the value of a variable based on the value of another variable. In the model below, I have analysed some data and I have trained an AI and Machine Learning model using test data to predict whether y is dependent on x.
 
 🚀Mathematically, we can represent a linear regression as : y = mx+c
 where:
